@@ -48,7 +48,7 @@ social:
 status:
   icon: ☕️
 superuser: true
-title: Alice Wu 吳恩達
+title: Manoel Galdino
 ---
 
 Manoel Galdino is a professor of political science at University of Sao Paulo. His research interests include ayesian inference, causality, corruption, racism and international political economy.
