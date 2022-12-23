@@ -52,9 +52,9 @@ sections:
       icon_pack: fas
       name: Statistics
     - description: 10%
-      icon: camera-retro
-      icon_pack: fas
-      name: Photography
+      icon: fa-person-booth
+      icon_pack: fa-thin
+      name: Political Science
     title: Skills
 - block: experience
   content:
