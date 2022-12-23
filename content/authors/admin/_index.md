@@ -38,10 +38,10 @@ social:
   link: https://scholar.google.com/citations?user=ZO1Z6gYAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/mgadino
+  link: https://github.com/mgaldino
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/manoel-galdino/
 - icon: cv
   icon_pack: ai
   link: uploads/resume.pdf
@@ -51,5 +51,5 @@ superuser: true
 title: Manoel Galdino
 ---
 
-Manoel Galdino is a professor of political science at University of Sao Paulo. His research interests include ayesian inference, causality, corruption, racism and international political economy.
+Manoel Galdino is a professor of political science at University of Sao Paulo. His research interests include Bayesian inference, causality, corruption, racism and international political economy.
 {style="text-align: justify;"}
