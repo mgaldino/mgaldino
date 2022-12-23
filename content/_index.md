@@ -60,28 +60,20 @@ sections:
   content:
     date_format: Jan 2006
     items:
-    - company: GenCoin
-      company_logo: org-gc
-      company_url: ""
-      date_end: ""
-      date_start: "2021-01-01"
+    - company: Transparência Brasil
+      company_logo: org-tb
+      company_url: "transparencia.org.br"
+      date_end: "2022-09-01"
+      date_start: "2016-05-01"
       description: |2-
           Responsibilities include:
 
-          * Analysing
+          * Leading advocacy
           * Modelling
-          * Deploying
-      location: California
-      title: CEO
-    - company: University X
-      company_logo: org-x
-      company_url: ""
-      date_end: "2020-12-31"
-      date_start: "2016-01-01"
-      description: Taught electronic engineering and researched semiconductor physics.
-      location: California
-      title: Professor of Semiconductor Physics
-    title: Experience
+          * Fundraising
+      location: Brazil
+      title: executive-director
+   
   design:
     columns: "2"
 - block: accomplishments
